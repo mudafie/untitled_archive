@@ -1,0 +1,30 @@
+body {
+    background-color: #0f0f0f;
+    color: #00ff41;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+    padding: 40px;
+    max-width: 800px;
+}
+a {
+    color: #00ff41;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #008f21;
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
