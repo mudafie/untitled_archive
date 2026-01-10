@@ -3,4 +3,6 @@ layout: default
 title: untitled_archive
 ---
 
-- [On Waiting Without Clarity](/untitled_archive/essay1.html)
+**status**: writing in the dark
+**currently listening to**: the deafening silence
+**thinking about**: whether contradictions need resolution
