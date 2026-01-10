@@ -1,10 +1,31 @@
 ---
 layout: essay
 title: On Waiting Without Clarity
+date: 2025-04-25
 ---
 
-It had been a long time coming, I guess. There wasn't much I could do to deny that there had been something brewing under the surface for a while. Still, it took me by surprise when I finally had that moment where the questions became more than just idle thoughts in the back of my mind. They became real trials for what I had always treated as foundational beliefs. So imagine the shock when that foundation was rocked by these questions. If the Bible is written by all these different people, and most of them are writing in the name of someone else to give authority to their writing, how do we know if any of it is true? If Saul was the Pharisee of Pharisees, the greatest persecutors of the followers of Christ, why do we buy that the letters he wrote to the early churches weren't just an attempt to pervert Christ's teaching and cripple the new faith from the outset? After all, the story of his "miraculous conversion" was written 20 years after the events of the Gospels, and he had already been making the rounds in the Christian churches by that point. His letters had already been circulating and he was shaping the narrative. Was Jesus really the Son of God, or was he just a really charasmatic doomsday preacher who managed to sway a lot of people?
+This is a record, not an argument.
 
-But then something changed. After months of questioning, distancing, and even doubting, I collapsed. Not literally, but spiritually. I was under so much pressure. I was waiting for bar exam results  and my wife was nearing on nine months pregnant. Nothing seemed like it was getting easier, and on the morning of April 25, 2025, everything fell apart. The man I was trying to be was cracked and worn, and finally I lost the strength to hold it together. For the first time in months, I bowed my head, made the sign of the cross, and I whispered a simple prayer. "God, please just give me grace. Give me the strength to make it through today." I wasn't ocnfident that I was going to pass the bar on my second attempt. I just wanted to survive Friday.
+It had been building for a while. I can see that now. What started as idle questions eventually stopped staying in the background. They began pressing on things I had treated as settled.
 
-I really believe that was what changed everything. The Committee on Bar Admissions released results early. I had achieved what I had come to believe was impossible. Later that afternoon, we found out we would be having our little girl that weekend. Sure enough, on April 27, my sweet daughter was born. That was the moment. Holding her, newborn and a stranger in a strange land, I found God again. He was there in my child. He was in the pain my wife had been experiencing. He was in the tears I wept as I held that little baby. Sometimes we think we are at an answer, that we are done making the journey. But sometimes, we are wrong. We just have to wait. 
+If the Bible is written by many people, often in the name of others, where does its authority actually come from?
+
+If Saul of Tarsus was a persecutor of the early church, why do we assume his letters were not an attempt to reshape or redirect Christ’s teaching? His conversion story is written decades later. His letters circulated early. He helped shape the narrative we inherited.
+
+Was Jesus the Son of God, or a charismatic apocalyptic preacher whose message outlived him?
+
+I didn’t arrive at answers. I mostly learned how thin some of my confidence was.
+
+At the same time, everything else felt unstable. I was waiting on bar exam results. My wife was almost nine months pregnant. Pressure accumulated without any obvious outlet.
+
+On the morning of April 25, 2025, I finally stopped trying to hold myself together. Not dramatically. Just a quiet collapse. I bowed my head. I made the sign of the cross. I asked, without much conviction, for enough grace to get through the day.
+
+I wasn’t confident I had passed. I wasn’t asking for resolution. I just wanted to survive Friday.
+
+The rest reads like a story now, which makes me suspicious of it. Results were released early. I passed. That afternoon we learned our daughter would be born that weekend. Two days later, she was.
+
+Holding her, everything felt present in a way I hadn’t been able to force. God, pain, fear, gratitude. None of it resolved the questions. It didn’t answer them. It interrupted them.
+
+I’m not sure what any of that proves.
+
+I’m leaving this here because it’s where I was. I don’t know yet whether waiting is wisdom, avoidance, or obedience.

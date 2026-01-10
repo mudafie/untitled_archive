@@ -32,3 +32,25 @@ p {
     text-indent: 2em;
     text-align: justify;
 }
+.site-header, .site-footer, .page-meta, .site-nav {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.page {
+  max-width: 760px;
+  margin: 12px;
+}
+
+.site-title a {
+  text-decoration: none;
+}
+
+.sep {
+  padding: 0 6px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #999;
+  margin: 14px 0;
+}
