@@ -40,6 +40,7 @@
       <div class="page-meta">written: {{ page.date | date: "%Y-%m-%d" }}</div>
     {% endif %}  
     
+    {% if page.url == "/untitled_archive/" or page.url == "/untitled_archive/index.html" %}
     <section class="front-matter">
         <p>
           This is a notebook first. Some pages contradict others. That is allowed here.
@@ -77,6 +78,7 @@
           document.getElementById("fragment-text").textContent = "no fragments available";
         }
       </script>
+      {% endif %}
       <hr>
 
     <section class="content">
