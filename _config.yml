@@ -1,3 +1,7 @@
 title: untitled_archive
 description: Meditative essays and stream of consciousness writing
 theme: null
+collections:
+  fragments:
+    output: true
+    permalink: /fragments/:name.html
