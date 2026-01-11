@@ -32,7 +32,15 @@
   </header>
 
   <main class="page">
-      <section class="front-matter">
+    {% if page.title %}
+      <h1 class="page-title">{{ page.title }}</h1>
+    {% endif %}
+
+    {% if page.date %}
+      <div class="page-meta">written: {{ page.date | date: "%Y-%m-%d" }}</div>
+    {% endif %}  
+    
+    <section class="front-matter">
         <p>
           This is a notebook first. Some pages contradict others. That is allowed here.
         </p>
@@ -52,7 +60,7 @@
       </section>
 
       <section class="random-fragment">
-        <p><em id="fragment-text"></em>loading fragment...</p>
+        <p><em id="fragment-text"></em></p>
       </section>
 
       <script>
@@ -65,17 +73,11 @@
         if (fragments.length > 0) {
           const random = fragments[Math.floor(Math.random() * fragments.length)];
           document.getElementById("fragment-text").textContent = random;
+        } else {
+          document.getElementById("fragment-text").textContent = "no fragments available";
         }
       </script>
       <hr>
-
-    {% if page.title %}
-      <h1 class="page-title">{{ page.title }}</h1>
-    {% endif %}
-
-    {% if page.date %}
-      <div class="page-meta">written: {{ page.date | date: "%Y-%m-%d" }}</div>
-    {% endif %}
 
     <section class="content">
       {{ content }}
