@@ -33,7 +33,16 @@ title: untitled_archive
     if (fragments.length > 0) {
         const random = fragments[Math.floor(Math.random() * fragments.length)];
         document.getElementById("fragment-text").textContent = random;
-    } else {
-        document.getElementById("fragment-text").textContent = "no fragments available";
+
+        // Typing effect
+        let i = 0;
+        function typeWriter() {
+            if (i < random.length) {
+                element.textConnect += random.charAt(i);
+                i++;
+                setTimeout(typeWriter, 30); // 30ms per character - adjust speed here
+            }
+        }
+        typeWriter();
     }
 </script>
