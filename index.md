@@ -40,7 +40,7 @@ title: untitled_archive
             if (i < random.length) {
                 element.textConnect += random.charAt(i);
                 i++;
-                setTimeout(typeWriter, 30); // 30ms per character - adjust speed here
+                setTimeout(typeWriter, 50); // 50ms per character - adjust speed here
             }
         }
         typeWriter();
