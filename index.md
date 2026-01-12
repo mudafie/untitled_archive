@@ -32,13 +32,13 @@ title: untitled_archive
         
     if (fragments.length > 0) {
         const random = fragments[Math.floor(Math.random() * fragments.length)];
-        document.getElementById("fragment-text").textContent = random;
+        document.getElementById("fragment-text");
 
         // Typing effect
         let i = 0;
         function typeWriter() {
             if (i < random.length) {
-                element.textConnect += random.charAt(i);
+                element.textContent += random.charAt(i);
                 i++;
                 setTimeout(typeWriter, 50); // 50ms per character - adjust speed here
             }
