@@ -40,46 +40,7 @@
       <div class="page-meta">written: {{ page.date | date: "%Y-%m-%d" }}</div>
     {% endif %}  
     
-    {% if page.url == "/untitled_archive/" or page.url == "/untitled_archive/index.html" %}
-    <section class="front-matter">
-        <p>
-          This is a notebook first. Some pages contradict others. That is allowed here.
-        </p>
-        <p>
-          Over time, a few notes may harden into positions. If that happens, you'll be able to trace it.
-        </p>
-        <p>
-          This site is a personal archive and collection of writings by an individual.
-          It is not affiliated with any organization.
-        </p>
-      </section>
-
-      <section class="current-status">
-        <p><strong>status:</strong> writing in the dark</p>
-        <p><strong>listening to:</strong> silence</p>
-        <p><strong>thinking about:</strong> whatever</p>
-      </section>
-
-      <section class="random-fragment">
-        <p><em id="fragment-text"></em></p>
-      </section>
-
-      <script>
-        const fragments = [
-          {% for fragment in site.fragments %}
-          {{ fragment.text | jsonify }}{% unless forloop.last %},{% endunless %}
-          {% endfor %}
-        ];
-        
-        if (fragments.length > 0) {
-          const random = fragments[Math.floor(Math.random() * fragments.length)];
-          document.getElementById("fragment-text").textContent = random;
-        } else {
-          document.getElementById("fragment-text").textContent = "no fragments available";
-        }
-      </script>
-      {% endif %}
-      <hr>
+    <hr>
 
     <section class="content">
       {{ content }}
